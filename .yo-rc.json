@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.umsa.efu"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "monolith",
+    "baseName": "efu",
+    "packageName": "com.umsa.efu",
+    "packageFolder": "com/umsa/efu",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGY4NzBlMWY1Y2Y1OTgyYTc0ODM3MmFiNTg5YjlkMmY3ZTM0ZjMyOWI0NTZhMTAzZWNlNTg5MzQ5Zjc2YmRiOTQzZTcwMTFhZTE2MGQ5MjEzMGViZGQ3YmVjODZmYzViM2ZjNDUzNzliNzI3NGJlYmFlZDY5MmUzYzFjMTc0NTg=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
